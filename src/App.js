@@ -1,24 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
+import D3Chart from "./D3Chart";
+import D3Chart2 from "./D3Chart2";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div>
+        <h1>Top Players by country Mens</h1>
+        {/*<D3Chart />*/}
+          <D3Chart2 />
+        {/* You can add more components or content here */}
+      </div>
   );
 }
 

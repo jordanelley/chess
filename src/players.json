@@ -1,0 +1,110 @@
+[
+  {
+  "Rank": 1,
+  "Name": "Middelburg, Tom",
+  "Title": "m",
+  "Fed": "NZL",
+  "Rating": 2358,
+  "G": 0,
+  "B-Year": 1980
+},
+  {
+    "Rank": 2,
+    "Name": "Hague, Ben",
+    "Title": "f",
+    "Fed": "NZL",
+    "Rating": 2337,
+    "G": 0,
+    "B-Year": 1973
+  },
+  {
+    "Rank": 3,
+    "Name": "Gong, Daniel Hanwen",
+    "Title": "f",
+    "Fed": "NZL",
+    "Rating": 2319,
+    "G": 0,
+    "B-Year": 2003
+  },
+  {
+    "Rank": 4,
+    "Name": "Ang, Alphaeus Wei Ern",
+    "Title": "f",
+    "Fed": "NZL",
+    "Rating": 2288,
+    "G": 9,
+    "B-Year": 2002
+  },
+  {
+    "Rank": 5,
+    "Name": "Ker, Anthony F",
+    "Title": "m",
+    "Fed": "NZL",
+    "Rating": 2262,
+    "G": 0,
+    "B-Year": 1967
+  },
+  {
+    "Rank": 6,
+    "Name": "Xie, Felix",
+    "Title": "f",
+    "Fed": "NZL",
+    "Rating": 2244,
+    "G": 0,
+    "B-Year": 2008
+  },
+  {
+    "Rank": 7,
+    "Name": "Croad, Nicolas",
+    "Title": "f",
+    "Fed": "NZL",
+    "Rating": 2220,
+    "G": 0,
+    "B-Year": 1980
+  },
+  {
+    "Rank": 8,
+    "Name": "Dive, Russell John",
+    "Title": "m",
+    "Fed": "NZL",
+    "Rating": 2219,
+    "G": 0,
+    "B-Year": 1966
+  },
+  {
+    "Rank": 9,
+    "Name": "Renjith, Sravan",
+    "Title": "f",
+    "Fed": "NZL",
+    "Rating": 2182,
+    "G": 9,
+    "B-Year": 2008
+  },
+  {
+    "Rank": 10,
+    "Name": "Smith, Robert W",
+    "Title": "f",
+    "Fed": "NZL",
+    "Rating": 2162,
+    "G": 0,
+    "B-Year": 1956
+  },
+  {
+    "Rank": 99,
+    "Name": "Aldridge, Alan L.",
+    "Title": "NZL",
+    "Fed": "NZL",
+    "Rating": 1697,
+    "G": 0,
+    "B-Year": 1962
+  },
+  {
+    "Rank": 100,
+    "Name": "Ingan, Angelito",
+    "Title": "NZL",
+    "Fed": "NZL",
+    "Rating": 1692,
+    "G": 7,
+    "B-Year": 1991
+  }
+]
